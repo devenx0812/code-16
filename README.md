@@ -2,8 +2,8 @@
 
 # Code 1
 ```
-//garv nandwana
-//23070123167
+//Devansh Chachra
+//22070123039
 #include<iostream>
 using namespace std;
 
@@ -29,8 +29,8 @@ int main(){
 
 # Code 2
 ```
-//garv nandwana
-//23070123167
+// Devansh Chachra
+//22070123039
 #include<iostream>
 using namespace std;
 
